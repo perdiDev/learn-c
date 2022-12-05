@@ -1,0 +1,24 @@
+#Dasar Programan Komputer
+
+1. Array
+    - Array 1D & Array 2D:
+        + Inisialisasi Array
+        + Akses element Array
+        + Ubah elemen Array
+2. Pointer
+    - Inisialisai Pointer
+    - Array with Pointer
+    - Pointer to pointer
+3. Struct
+    - Inisialisai Struct
+        + Struct general
+        + Struct mengunakan typedef
+        + Struct mengunakan pointer
+4. Fungsi
+    - Argumen
+    - Parameter
+    - Pointer dalam Fungsi
+    - Pointer-array-fungsi
+    - Macro
+5. File
+    - Read, write, and append file
