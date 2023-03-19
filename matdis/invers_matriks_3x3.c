@@ -45,7 +45,7 @@ int main() {
     printf("\nAdj(A) =\n");
     cetak_matriks(adj_matriks);
 
-    // Hentika program jika determinan adalah nol
+    // Hentikan program jika determinan adalah nol
     if(determinan == 0) {
         printf("Determinan adalah 0, matriks tidak memiliki invers\n");
         exit(1);
